@@ -1,4 +1,3 @@
-# folder_name = hashtag_city
 # ip = config['DEFAULT']['IP']
 # port = config['DEFAULT']['MongoDB-Port']
 
